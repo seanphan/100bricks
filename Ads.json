@@ -4,7 +4,7 @@
 {
 "id":1,
 "name":"Full Ads Homepage",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/2644464634"
 },
@@ -18,7 +18,7 @@
 {
 "id":3,
 "name":"Full Ads GameOver",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/5236284633"
 },
@@ -32,7 +32,7 @@
 {
 "id":5,
 "name":"Full Ads PauseScreen",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/7214265036"
 },
