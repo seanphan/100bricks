@@ -1,17 +1,17 @@
 {
-"version": 5,
+"version": 6,
 "banner":[
 {
 "id":1,
 "name":"Full Ads Homepage",
 "isShow": true,
-"timeInterval": 15,
+"timeInterval": 45,
 "idAds": "ca-app-pub-4184919047360261/2644464634"
 },
 {
 "id":2,
 "name":"banner Ads Homepage",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/2923666233"
 },
@@ -19,13 +19,13 @@
 "id":3,
 "name":"Full Ads GameOver",
 "isShow": true,
-"timeInterval": 15,
+"timeInterval": 45,
 "idAds": "ca-app-pub-4184919047360261/5236284633"
 },
 {
 "id":4,
 "name":"Banner Ads GameOver",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/4121197839"
 },
