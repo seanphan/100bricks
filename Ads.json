@@ -1,11 +1,11 @@
 {
-"version": 2,
+"version": 3,
 "banner":[
 {
 "id":1,
 "name":"Full Ads Homepage",
 "isShow": true,
-"timeInterval": 0,
+"timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/2644464634"
 },
 {
@@ -19,7 +19,7 @@
 "id":3,
 "name":"Full Ads GameOver",
 "isShow": true,
-"timeInterval": 0,
+"timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/5236284633"
 },
 {
@@ -33,7 +33,7 @@
 "id":5,
 "name":"Full Ads PauseScreen",
 "isShow": true,
-"timeInterval": 0,
+"timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/7214265036"
 },
 {
