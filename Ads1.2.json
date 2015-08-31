@@ -1,6 +1,6 @@
 {
-"version": 12,
-"mainBannerPositionOnTop": true,
+"version": 13,
+"mainBannerPositionOnTop": false,
 "banner":[
 {
 "id":1,
