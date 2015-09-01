@@ -43,5 +43,24 @@
 "isShow": true,
 "timeInterval": 45,
 "idAds": "ca-app-pub-4184919047360261/1167731435"
+},
+{
+"id":7,
+"name":"banner Banner Main Game",
+"isShow": true,
+"timeInterval": 45,
+"idAds": "ca-app-pub-4184919047360261/3759551438"
+}
+],
+"checkpoints":[
+{
+"id":1,
+"name":"Checkpoint 1",
+"value": 3000,
+},
+{
+"id":2,
+"name":"Checkpoint 1",
+"value": 5000,
 }]
 }
