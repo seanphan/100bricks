@@ -1,6 +1,7 @@
 {
-"version": 16,
+"version": 17,
 "mainBannerPositionOnTop": true,
+"enableBackgroundMusic": false,
 "banner":[
 {
 "id":1,
