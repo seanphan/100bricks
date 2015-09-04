@@ -1,5 +1,5 @@
 {
-"version": 17,
+"version": 18,
 "mainBannerPositionOnTop": true,
 "enableBackgroundMusic": false,
 "banner":[
@@ -57,11 +57,11 @@
 {
 "id":1,
 "name":"Checkpoint 1",
-"value": 300
+"value": 3000
 },
 {
 "id":2,
-"name":"Checkpoint 1",
-"value": 500
+"name":"Checkpoint 2",
+"value": 5000
 }]
 }
