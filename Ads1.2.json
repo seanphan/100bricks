@@ -1,19 +1,19 @@
 {
-"version": 18,
+"version": 19,
 "mainBannerPositionOnTop": true,
 "enableBackgroundMusic": false,
 "banner":[
 {
 "id":1,
 "name":"Full Ads Homepage",
-"isShow": true,
+"isShow": false,
 "timeInterval": 180,
 "idAds": "ca-app-pub-4184919047360261/2644464634"
 },
 {
 "id":2,
 "name":"banner Ads Homepage",
-"isShow": true,
+"isShow": false,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/2923666233"
 },
