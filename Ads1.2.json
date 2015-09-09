@@ -1,6 +1,6 @@
 {
-"version": 20,
-"mainBannerPositionOnTop": false,
+"version": 21,
+"mainBannerPositionOnTop": true,
 "enableBackgroundMusic": false,
 "banner":[
 {
