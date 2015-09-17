@@ -1,6 +1,6 @@
 {
-"version": 21,
-"mainBannerPositionOnTop": true,
+"version": 22,
+"mainBannerPositionOnTop": false,
 "enableBackgroundMusic": false,
 "banner":[
 {
@@ -13,7 +13,7 @@
 {
 "id":2,
 "name":"banner Ads Homepage",
-"isShow": false,
+"isShow": true,
 "timeInterval": 60,
 "idAds": "ca-app-pub-4184919047360261/2923666233"
 },
