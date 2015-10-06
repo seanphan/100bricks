@@ -48,7 +48,7 @@
 {
 "id":7,
 "name":"banner Main Game",
-"isShow": true,
+"isShow": false,
 "timeInterval": 45,
 "idAds": "ca-app-pub-4184919047360261/3759551438"
 }
