@@ -1,12 +1,12 @@
 {
 "version": 22,
-"mainBannerPositionOnTop": false,
+"mainBannerPositionOnTop": true,
 "enableBackgroundMusic": false,
 "banner":[
 {
 "id":1,
 "name":"Full Ads Homepage",
-"isShow": true,
+"isShow": false,
 "timeInterval": 180,
 "idAds": "ca-app-pub-4184919047360261/2644464634"
 },
@@ -20,7 +20,7 @@
 {
 "id":3,
 "name":"Full Ads GameOver",
-"isShow": true,
+"isShow": false,
 "timeInterval": 180,
 "idAds": "ca-app-pub-4184919047360261/5236284633"
 },
