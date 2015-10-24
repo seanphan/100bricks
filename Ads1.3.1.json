@@ -2,6 +2,7 @@
 "version": 26,
 "mainBannerPositionOnTop": true,
 "enableBackgroundMusic": false,
+"showAlertOnBackButton": false,
 "banner":[
 {
 "id":1,
