@@ -1,0 +1,67 @@
+{
+"version": 26,
+"mainBannerPositionOnTop": true,
+"enableBackgroundMusic": false,
+"banner":[
+{
+"id":1,
+"name":"Full Ads Homepage",
+"isShow": false,
+"timeInterval": 180,
+"idAds": "ca-app-pub-4184919047360261/2644464634"
+},
+{
+"id":2,
+"name":"banner Ads Homepage",
+"isShow": false,
+"timeInterval": 60,
+"idAds": "ca-app-pub-4184919047360261/2923666233"
+},
+{
+"id":3,
+"name":"Full Ads GameOver",
+"isShow": true,
+"timeInterval": 180,
+"idAds": "ca-app-pub-4184919047360261/5236284633"
+},
+{
+"id":4,
+"name":"Banner Ads GameOver",
+"isShow": true,
+"timeInterval": 60,
+"idAds": "ca-app-pub-4184919047360261/4121197839"
+},
+{
+"id":5,
+"name":"Full Ads PauseScreen",
+"isShow": false,
+"timeInterval": 180,
+"idAds": "ca-app-pub-4184919047360261/7214265036"
+},
+{
+"id":6,
+"name":"banner Ads PauseScreen",
+"isShow": true,
+"timeInterval": 45,
+"idAds": "ca-app-pub-4184919047360261/1167731435"
+},
+{
+"id":7,
+"name":"banner Main Game",
+"isShow": true,
+"timeInterval": 45,
+"idAds": "ca-app-pub-4184919047360261/3759551438"
+}
+],
+"checkpoints":[
+{
+"id":1,
+"name":"Checkpoint 1",
+"value": 3000
+},
+{
+"id":2,
+"name":"Checkpoint 2",
+"value": 5000
+}]
+}
