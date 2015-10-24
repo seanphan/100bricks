@@ -1,6 +1,6 @@
 {
-"version": 26,
-"mainBannerPositionOnTop": true,
+"version": 27,
+"mainBannerPositionOnTop": false,
 "enableBackgroundMusic": false,
 "showAlertOnBackButton": false,
 "banner":[
