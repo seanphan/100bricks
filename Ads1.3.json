@@ -1,5 +1,5 @@
 {
-"version": 26,
+"version": 27,
 "mainBannerPositionOnTop": false,
 "enableBackgroundMusic": false,
 "banner":[
@@ -8,7 +8,7 @@
 "name":"Full Ads Homepage",
 "isShow": true,
 "timeInterval": 180,
-"idAds": "ca-app-pub-5138952156821434/6604659702"
+"idAds": "ca-app-pub-4184919047360261/2644464634"
 },
 {
 "id":2,
@@ -22,35 +22,35 @@
 "name":"Full Ads GameOver",
 "isShow": true,
 "timeInterval": 180,
-"idAds": "ca-app-pub-5138952156821434/6604659702"
+"idAds": "ca-app-pub-4184919047360261/5236284633"
 },
 {
 "id":4,
 "name":"Banner Ads GameOver",
 "isShow": true,
 "timeInterval": 60,
-"idAds": "ca-app-pub-5138952156821434/5127926501"
+"idAds": "ca-app-pub-4184919047360261/4121197839"
 },
 {
 "id":5,
 "name":"Full Ads PauseScreen",
 "isShow": true,
 "timeInterval": 180,
-"idAds": "ca-app-pub-5138952156821434/6604659702"
+"idAds": "ca-app-pub-4184919047360261/7214265036"
 },
 {
 "id":6,
 "name":"banner Ads PauseScreen",
 "isShow": true,
 "timeInterval": 45,
-"idAds": "ca-app-pub-5138952156821434/5127926501"
+"idAds": "ca-app-pub-4184919047360261/1167731435"
 },
 {
 "id":7,
 "name":"banner Main Game",
 "isShow": true,
 "timeInterval": 45,
-"idAds": "ca-app-pub-5138952156821434/5127926501"
+"idAds": "ca-app-pub-4184919047360261/3759551438"
 }
 ],
 "checkpoints":[
